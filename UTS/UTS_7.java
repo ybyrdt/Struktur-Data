@@ -56,7 +56,7 @@ public class UTS_7
     
     public static void main(String[] args) {
         UTS_7 function = new UTS_7();
-        String[] nama = {"Pendo", "Budi", "Vincent", "Ridho", "Mahli", "Imam", "Hama"};
+        String[] nama = {"Blade of Despair", "Immortality", "Athena Shield", "Blade Armor", "Golden Staff", "Great Dragon Spear", "Wind of Nature"};
         
         // Insertion Sort
         String[] insertionSorted = Arrays.copyOf(nama, nama.length);
