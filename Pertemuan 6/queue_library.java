@@ -7,7 +7,7 @@ package pertemuan6;
 
 /**
  *
- * @author ACER
+ * @author radit
  */
 import java.util.LinkedList;
 import java.util.Queue;
