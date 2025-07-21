@@ -7,7 +7,7 @@ package pertemuan5;
 
 /**
  *
- * @author ACER
+ * @author radit
  */
 import java.util.Stack;
 
