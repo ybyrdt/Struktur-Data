@@ -7,7 +7,7 @@ package pertemuan7;
 
 /**
  *
- * @author ACER
+ * @author radit
  */
 public class sorting_descending {
 
