@@ -7,7 +7,7 @@ package pertemuan5;
 
 /**
  *
- * @author ACER
+ * @author radit
  */
 public class stack_withoutlibrary {
     private int maxSize;
